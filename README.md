@@ -1,13 +1,13 @@
-<head>
-<style>
-  .cabecalho{
-    background-color:white;
-  }
-</style>
-</head>
-<body>
-<h2 class"cabecalho">Hello World</h2>
-</body>
+<h1>Opa, seja bem vindo ao meu perfil!</h1>
+
+<h3>Conhecimentos</h3>
+<ul>
+  <p>Inglês - C1</p>
+  <p>Python - Intermediário</p>
+  <p>HTML - Intermediário</p>
+  <p>CSS - Intermediário</p>
+  <p>Javascript - Básico</p>
+</ul>
 <!--
 **Empoxx/Empoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
