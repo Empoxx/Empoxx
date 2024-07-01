@@ -2,11 +2,13 @@
 
 <h3>Conhecimentos</h3>
 <ul>
+  <li>
   <p>Inglês - C1</p>
   <p>Python - Intermediário</p>
   <p>HTML - Intermediário</p>
   <p>CSS - Intermediário</p>
   <p>Javascript - Básico</p>
+  </li>
 </ul>
 <!--
 **Empoxx/Empoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
