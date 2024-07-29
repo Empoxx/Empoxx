@@ -12,4 +12,3 @@
 Atualmente estou no 3° ano do Ensino Médio e utilizo esse espaço para compartilhar projetos que eu fiz, tanto pessoais quanto escolares.
 
 
-
