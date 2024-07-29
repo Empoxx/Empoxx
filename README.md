@@ -11,5 +11,5 @@
 
 <strong>Atualmente estou no 3° ano do Ensino Médio e utilizo esse espaço para compartilhar projetos que eu fiz, tanto pessoais quanto escolares.</strong>
 
-A maioria dos conteúdos são de anos atrás, portanto elas não são otimizadas/visualmente bonitas e possivelmente não funcionam.
+A maioria dos conteúdos são de anos atrás, portanto elas não são otimizadas, nem visualmente bonitas, além de possivelmente não funcionar.
 
