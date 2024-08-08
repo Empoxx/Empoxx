@@ -16,4 +16,12 @@ A maioria dos conteúdos são de anos atrás, portanto elas não são otimizadas
 
 <h3> Redes Sociais </h3>
 
-Youtube: <a href="https://www.youtube.com/@empoxx7054">
+<a href="mailto: icaro_dm@outlook.com.com">
+      <img width="30" src="/Fabinxz/Fabinxz/raw/main/gmail.svg" style="max-width: 100%;">
+</a>
+<a href="(https://www.youtube.com/@empoxx7054" rel="nofollow">
+      <img width="35" src="/Fabinxz/Fabinxz/raw/main/youtube.svg" style="max-width: 100%;">
+</a>
+<a href="https://www.instagram.com/yicaroduarte/" rel="nofollow">
+      <img width="25" src="/Fabinxz/Fabinxz/raw/main/instagram.png" style="max-width: 100%;">
+</a>
