@@ -28,3 +28,5 @@ A maioria dos conteúdos são de anos atrás, portanto elas não são otimizadas
       <img width="25" src="/Fabinxz/Fabinxz/raw/main/instagram.png" style="max-width: 100%;">
 </a>
 <a ref="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"></a>
+
+<object data="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" type="image/svg+xml"></object>
