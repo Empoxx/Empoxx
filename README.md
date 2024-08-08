@@ -13,3 +13,4 @@
 
 A maioria dos conteúdos são de anos atrás, portanto elas não são otimizadas, nem visualmente bonitas, além de possivelmente não funcionar.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
